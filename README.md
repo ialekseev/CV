@@ -16,9 +16,9 @@ __General skills:__
  * Experienced in managing small teams (3-5 members); 
  * Experienced in incremental renovation of complex legacy code bases using modern instruments; 
 
-__Current technical preferences:__
+*Current technical preferences:*
 Scala, Akka, Kafka, MongoDb, Cassandra, Spark, Play!, WebPack, AngularJs, TeamCity
-__Experienced in:__
+*Experienced in:*
 C#, ASP.NET, Java, PowerShell,  MsSql, Oracle, ExtJs, KnockoutJs
 
 ### Work experience
@@ -35,7 +35,7 @@ June 2013 – Present_**
  * Technical mentoring & monitoring;
  * Communication with stakeholders & testing team;
 
-Technologies: Scala, Akka, MongoDb, C#, ASP.NET, Oracle, ExtJs, TeamCity
+*Technologies:* Scala, Akka, MongoDb, C#, ASP.NET, Oracle, ExtJs, TeamCity
 ___
 
 **_Technical lead  
@@ -47,7 +47,7 @@ August 2015 – May 2016_**
  * Established development process (Kanban) and CI pipeline;
  * Provided technical mentoring and monitoring of teammates;
 
-Technologies: Scala, Akka, Kafka, MongoDb, AngularJS
+*Technologies:* Scala, Akka, Kafka, MongoDb, AngularJS
 ___
 
 **_Contract developer  
@@ -61,7 +61,7 @@ April 2015 – July 2016_**
  * *Elasticsearch-proxy* - Proxy-service for Elasticsearch public search;  
  * *Hitcount-service* - Service for counting/retrieving page hits;  
   
-Technologies: Scala, Akka, Spray, Cassandra, Elasticsearch
+*Technologies:* Scala, Akka, Spray, Cassandra, Elasticsearch
 
 ___
 
@@ -71,7 +71,7 @@ September 2011 – May 2013_**
 
  * Participated in creating high-loaded news portal ([finam.info](http://finam.info/)) from scratch; 
  
-Technologies: C#, ASP.NET, MongoDb, KnockoutJs
+*Technologies:* C#, ASP.NET, MongoDb, KnockoutJs
 
 ___
 
@@ -81,7 +81,7 @@ August 2010 –  August 2011_**
 
  * Participated in creating the most popular CRM for realtors in Russia ([recrm.ru](http://recrm.ru/)) from scratch; 
 
-Technologies: C#, ASP.NET, MsSql
+*Technologies:* C#, ASP.NET, MsSql
 
 ___
 
@@ -91,7 +91,7 @@ Dec 2008 - August 2011_**
  
  * Created & adopted different tools for internal business process automation;
 
-Technologies: Java, MySql 
+*Technologies:* Java, MySql 
 
 ### Education
 
