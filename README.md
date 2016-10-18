@@ -7,7 +7,7 @@ I am able to build an optimal development/delivery pipeline of a project followi
 __General skills:__
  * Experienced in applying different software development methodologies in practice: Scrum, XP, Kanban; 
  * Active TDD practitioner; 
- * Active Continious integration / Continious  delivery practitioner; 
+ * Active Continious integration/delivery practitioner; 
  * Experienced in providing technical mentoring  and conducting technical interviews; 
  * Experienced in managing small teams (3-5 members); 
  * Experienced in incremental renovation of complex legacy code bases using modern instruments; 
@@ -20,7 +20,7 @@ C#, ASP.NET, Java, PowerShell,  MsSql, Oracle, ExtJs, KnockoutJs
 ### Work experience
 
 *Technical lead   
-UBS / Luxoft - , Moscow   
+UBS/Luxoft, Moscow   
 June 2013 – Present*   
 
  * Requirements analysis & iteration planning;
@@ -44,16 +44,19 @@ August 2015 – May 2016*
  * Provided technical mentoring and monitoring for the teammates;
 
 Technologies: Scala, Akka, Kafka, MongoDb, AngularJS
-
 ___
 
 *Contract developer  
 Innova - gamedev company  
 April 2015 – July 2016*  
 
- * Implemented different backend-services;
- * Provided documentation & deployment scripts;
-
+ Created bunch of REST microservices:
+ 
+ * *Quest-ayyo-api* - Service (api) for Ayyo Quest game;    
+ * *Tasky-bot* - Trello & Jira integration service;   
+ * *Elasticsearch-proxy* - Proxy-service for Elasticsearch public search;  
+ * *Hitcount-service* - Service for counting/retrieving page hits;  
+  
 Technologies: Scala, Akka, Spray, Cassandra, Elasticsearch
 
 ___
