@@ -4,14 +4,14 @@
 ![Igor Alekseev](https://avatars0.githubusercontent.com/u/3104258?v=3&s=150 "Igor Alekseev")  
 [ialekseev.com](http://ialekseev.com), [GitHub](https://github.com/ialekseev), [StackOverflow](http://stackoverflow.com/users/4120091/ialekseev), [CodeProject](http://www.codeproject.com/Members/Alekseev-Igor)   
 
-__Technical lead__ with 8 years of experience in variety of development and leading roles with expertise in different stacks and areas of software engineering.  
+__Technical lead__ with 8+ years of experience in variety of development and leading roles with expertise in different stacks and areas of software engineering.  
 
 I am able to build an optimal development/delivery pipeline of a project following best practices available in particular environment. Requirements go a long road from idea to implementation, therefore it's really important to build right technical process to reduce risks and increase quality of a product, in order to make clients happy. That's what I am good at, that's what I enjoy doing most. More challenges, the better for me!
 
 __General skills:__
  * Experienced in applying different software development methodologies in practice: Scrum, XP, Kanban; 
- * Active TDD practitioner; 
- * Active Continious integration/delivery practitioner; 
+ * Active Continuous Integration/Delivery practitioner; 
+ * Active TDD practitioner;  
  * Experienced in providing technical mentoring  and conducting technical interviews; 
  * Experienced in managing small teams (3-5 members); 
  * Experienced in incremental renovation of complex legacy code bases using modern instruments; 
@@ -28,8 +28,8 @@ UBS/Luxoft, Moscow
 June 2013 – Present_**   
 
  * Requirements analysis & iteration planning;
- * Establishing CI pipeline that fits the bank processes;
- * Designing architecture of the projects and writing code;
+ * Establishing Continuous Integration pipeline that fits the bank processes;
+ * Designing architecture of projects and writing code;
  * Establishing TDD practice; 
  * Conducting technical interviews;
  * Technical mentoring & monitoring;
@@ -42,9 +42,9 @@ ___
 Qkoo - geomarketing service & marketplace startup, Moscow  
 August 2015 – May 2016_**  
 
- * Peformed business analysis & planning;
+ * Performed business analysis & planning;
  * Designed architecture of the solution;
- * Established development process (Kanban) and CI pipeline;
+ * Established development process (XP with Kanban) and CI pipeline;
  * Provided technical mentoring and monitoring of teammates;
 
 *Technologies:* Scala, Akka, Kafka, MongoDb, AngularJS
