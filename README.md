@@ -17,7 +17,7 @@ __General skills:__
  * Experienced in incremental renovation of complex legacy code bases using modern instruments; 
 
 *Current technical preferences:*
-Scala, Akka, Kafka, MongoDb, Cassandra, Spark, Play!, WebPack, AngularJs, TeamCity
+Scala, Akka, Kafka, MongoDb, Cassandra, Spark, Play!, WebPack, AngularJs, TeamCity  
 *Experienced in:*
 C#, ASP.NET, Java, PowerShell,  MsSql, Oracle, ExtJs, KnockoutJs
 
