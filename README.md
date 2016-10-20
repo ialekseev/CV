@@ -81,7 +81,7 @@ August 2010 –  August 2011_**
 
  * Participated in creating the most popular CRM for realtors in Russia ([recrm.ru](http://recrm.ru/)) from scratch; 
 
-*Technologies:* C#, ASP.NET, MsSql
+*Technologies:* C#, ASP.NET, MsSql, Java, Spring 
 
 ___
 
