@@ -80,6 +80,7 @@ Site-mechanics - web studio, Ufa
 August 2010 –  August 2011_**  
 
  * Participated in creating the most popular CRM for realtors in Russia ([recrm.ru](http://recrm.ru/)) from scratch; 
+ * Participated in creating web sites & apps of [different kinds](http://site-mechanics.com/); 
 
 *Technologies:* C#, ASP.NET, MsSql, Java, Spring 
 
